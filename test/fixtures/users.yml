@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  lase_name: MyString
+  name: MyString
+  birthday: 
+
+two:
+  lase_name: MyString
+  name: MyString
+  birthday: 
